@@ -13,4 +13,5 @@ Oque significa cada elelmento em python?
 // Divisão inteira
 % Resto da divisão
 
-python
+'''python
+
